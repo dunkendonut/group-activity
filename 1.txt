@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 One - Kent Robert S. Urot
 Gi edit nani
+=======
+One - Kent Robert S. Urot hi kent dodong ni
+>>>>>>> origin/dev-main-v1
